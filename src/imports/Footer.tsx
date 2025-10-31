@@ -41,8 +41,8 @@ function Frame101() {
   return (
     <div className="content-stretch flex gap-[49px] items-center relative shrink-0">
       <MaterialSymbolsMailOutline />
-      <RiLinkedinFill />
-      <Group />
+        <a href="https://www.linkedin.com/in/fdiaznem/"><RiLinkedinFill /></a>
+        <a href="https://github.com/defeeeee"><Group /></a>
     </div>
   );
 }
