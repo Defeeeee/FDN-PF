@@ -57,7 +57,7 @@
     },
     server: {
       port: 3003,
-      open: true,
+      open: false,
       allowedHosts: ["fdiaznem.com.ar"]
     },
   });
